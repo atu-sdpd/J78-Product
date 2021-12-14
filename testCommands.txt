@@ -1,1 +1,2 @@
+javac -classpath ".\junit-platform-console-standalone-1.8.1.jar" .\FirstUnitTest.java
 java -jar junit-platform-console-standalone-1.8.1.jar --class-path . --select-class FirstUnitTest
